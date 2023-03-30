@@ -30,13 +30,8 @@ Screenshot of Application/IndexedDB/jate database
 MIT     
 https://opensource.org/license/mit/
 
+## Links
 
+Deployed Link: https://tranquil-scrubland-88776.herokuapp.com/
 
-
-
-
-
-
-
-
-https://tranquil-scrubland-88776.herokuapp.com/
+GitHub Repo: https://github.com/brachtco/pwa-text-editor
